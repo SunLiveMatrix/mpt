@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    "{ProjDir}"
+  ],
+  "vars": [],
+  "mainfile": "",
+  "unfold": [
+    "/home/admin/mpt.net/mpt",
+    "/home/admin/mpt.net/mpt/matrix",
+    "/home/admin/mpt.net/mpt/matrix/gnu",
+    "/home/admin/mpt.net/mpt/matrix/gnu/bin"
+  ]
+}
